@@ -14,12 +14,12 @@ A ideia foi deixar algo visualmente agradável, funcional e com uma vibe mais hu
 ## 🚀 Como rodar
 
 1. Baixe ou clone esse repositório
-2. Abra o arquivo `login.html` no seu navegador
+2. Abra o arquivo `prothera.html` no seu navegador
 3. Pronto! Você já pode ver a telinha funcionando 😄
 
 ## 🛠 Arquivos principais
 
-- `login.html` → onde está a estrutura da página
+- `prothera.html` → onde está a estrutura da página
 - `style.css` → onde está todo o estilo visual
 
 ## 📌 Observações
