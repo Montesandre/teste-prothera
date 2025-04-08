@@ -20,7 +20,7 @@ A ideia foi deixar algo visualmente agradável, funcional e com uma vibe mais hu
 ## 🛠 Arquivos principais
 
 - `prothera.html` → onde está a estrutura da página
-- `style.css` → onde está todo o estilo visual
+- `style-prothera.css` → onde está todo o estilo visual
 
 ## 📌 Observações
 
